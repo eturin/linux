@@ -1,0 +1,1 @@
+LD_PRELOAD="libtcmalloc.so.4" HEAPCHECK=normal ./pointers
